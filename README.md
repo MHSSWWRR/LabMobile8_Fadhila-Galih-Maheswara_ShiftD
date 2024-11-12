@@ -35,4 +35,5 @@ Method `ambilMahasiswa(id: any)` digunakan untuk mengambil data mahasiswa berdas
   <img src="src/assets/3.png" height="300px">
   <img src="src/assets/4.png" height="300px">
   <img src="src/assets/5.png" height="300px">
+  <img src="src/assets/6.png" height="300px">
 </div>
