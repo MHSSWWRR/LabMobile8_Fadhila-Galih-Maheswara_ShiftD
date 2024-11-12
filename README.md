@@ -30,10 +30,9 @@ Method `ambilMahasiswa(id: any)` digunakan untuk mengambil data mahasiswa berdas
 
 # Screenshot
 <div style="display: flex; justify-content: space-between;">
-  <img src="SCREENSHOT PAGE HOME" height="300px">
-  <img src="SCREENSHOT CREATE" height="300px">
-  <img src="SCREENSHOT HOME UPDATE" height="300px">
-  <img src="SCREENSHOT PAGE EDIT" height="300px">
-  <img src="SCREENSHOT HOME EDIT" height="300px">
-  <img src="SCREENSHOT ALERT DELETE" height="300px">
+  <img src="src/assets/1.png" height="300px">
+  <img src="src/assets/2.png" height="300px">
+  <img src="src/assets/3.png" height="300px">
+  <img src="src/assets/4.png" height="300px">
+  <img src="src/assets/5.png" height="300px">
 </div>
